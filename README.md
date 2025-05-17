@@ -29,11 +29,17 @@
 <a href="https://hits.seeyoufarm.com"><img src=""/></a>
 </p>
 
+# 📒 Introduction
 
+**⚡ Crichd Playlist Scraper** is a lightweight and smart script that extracts live sports stream links from the Crichd website and converts them into an **M3U playlist**.
 
-# 📒Introdicton 
-* Auto update playlists 
+⏱️ The playlist is **auto-updated every 15 minutes**, so you're always getting fresh, working streaming links — ready to play instantly!
 
+📡 It supports many of the **most popular sports channels** worldwide.
+
+🎯 Watch live Cricket, Football, UFC, WWE, F1 Racing, Tennis, and more — directly through any M3U-supported player (like VLC, IPTV Smarters, Tivimate, etc.).
+
+> ⚠️ For educational and personal use only. Please follow the laws and regulations of your country.
 
 # 💥Key Features
 

@@ -74,9 +74,12 @@
 </h1>
 
 
-
 # 🚬Credits
-ABU SAEEID X NOOB
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF2C10&background=31FF9400&width=400&lines=ABU+SAEEID+X+NOOB)](https://git.io/typing-svg)
+
+
+
+# 📝Note
 
 
 # 📝Note

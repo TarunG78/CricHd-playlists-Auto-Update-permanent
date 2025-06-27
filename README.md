@@ -1,8 +1,4 @@
 
-
-
-
-
 <h1 align="center">
   <br>
   <a href=""><img src="https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/image/logo.jpg" alt="🔥CricHD🔥" width="200"></a>
@@ -22,7 +18,7 @@
       <img src="">
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.banglalink.toffee">
-    <img src="https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/image/ba.jpg">
+    <img src="https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/image/ban2.png">
   </a>
   </a>
   <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://img.shields.io/badge/Made%20in-Bangladesh_🇧🇩-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square"></a>

@@ -5,7 +5,7 @@
 
 <h1 align="center">
   <br>
-  <a href=""><img src="https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/logo.jpg" alt="🔥CricHD🔥" width="200"></a>
+  <a href=""><img src="https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/image/logo.jpg" alt="🔥CricHD🔥" width="200"></a>
   <br>
   🔥CricHd playlist🔥
   <br>
@@ -22,7 +22,7 @@
       <img src="">
   </a>
   <a href="https://play.google.com/store/apps/details?id=com.banglalink.toffee">
-    <img src="https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ba.jpg">
+    <img src="https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/image/ba.jpg">
   </a>
   </a>
   <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://img.shields.io/badge/Made%20in-Bangladesh_🇧🇩-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square"></a>
@@ -75,7 +75,7 @@
 
 <h1 align="center">
   <a href="https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u">
-    <img src="https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/channel-ss2.jpg" alt="Channel Image" width="400" style="margin: 20px;">
+    <img src="https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/image/channel-ss2.jpg" alt="Channel Image" width="400" style="margin: 20px;">
   </a>
 </h1>
 

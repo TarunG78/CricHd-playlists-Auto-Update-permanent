@@ -1,83 +1,85 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/16-by-xfireflix.png", Star Sports 1
-https://d4.merichunidya.com:1686/hls/star1in.m3u8?md5=tr2DVih6tcBpcQ8UF1-Yqg&expires=1753836352
+https://d2.merichunidya.com:1686/hls/star1in.m3u8?md5=CBiAN7kPkZ9r4ps7FxHwng&expires=1753838279
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1-by-xfireflix.png", Star Sports 1 Hindi
-https://d3.merichunidya.com:1686/hls/starhindi.m3u8?md5=ko-e2RZq0edpHgxCowwhsg&expires=1753836352
+https://d1.merichunidya.com:1686/hls/starhindi.m3u8?md5=typ5gaoAAW9SM9_dw8TUCQ&expires=1753838279
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/20-by-xfireflix.png", PTV Sports
-https://d1.merichunidya.com:1686/hls/ptvpk.m3u8?md5=V4rTGxmub1fe8WaXPfp8Ng&expires=1753836352
+https://d3.merichunidya.com:1686/hls/ptvpk.m3u8?md5=IwpNuxvwjmq9Ph3KjHpldQ&expires=1753838279
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/38-by-xfireflix.png", Willow HD
-https://d5.merichunidya.com:1686/hls/willowusa.m3u8?md5=iAfB0FaEZOgcCzih8dT1Wg&expires=1753836352
+https://d1.merichunidya.com:1686/hls/willowusa.m3u8?md5=zfrbXod9Np9UBQ8tB2keJg&expires=1753838279
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/8-by-xfireflix.png", Willow HD 2
-https://d4.merichunidya.com:1686/hls/willowextra.m3u8?md5=oqV3sfNC3yGXM0g5kTVjwA&expires=1753836352
+https://d2.merichunidya.com:1686/hls/willowextra.m3u8?md5=0_OPoPdXM3--EpdL88LQ8g&expires=1753838279
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/10-by-xfireflix.png", Ten Sports
-https://d4.merichunidya.com:1686/hls/tenspk.m3u8?md5=O2RnHPZFNTZ1x5XkqgTdQg&expires=1753836352
+https://d3.merichunidya.com:1686/hls/tenspk.m3u8?md5=NrbWTX538B6Sjytt99p4Xg&expires=1753838280
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/12-by-xfireflix.png", A Sports HD
-https://d4.merichunidya.com:1686/hls/asportshd.m3u8?md5=u7Y8Lq4xRBy1HrzM9Xh-VQ&expires=1753836352
+https://d4.merichunidya.com:1686/hls/asportshd.m3u8?md5=KEVMC4DtEKmiSHZiPTFgdQ&expires=1753838280
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/9-by-xfireflix.png", Sky Sports Cricket
-https://d4.merichunidya.com:1686/hls/skyscric.m3u8?md5=6aF0FPREolZu8IIrFrx3SQ&expires=1753836352
+https://d2.merichunidya.com:1686/hls/skyscric.m3u8?md5=742nK7nfa9Phw4opFTI9-g&expires=1753838280
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/18-by-xfireflix.png", Sky Sports Main Event
-https://d1.merichunidya.com:1686/hls/skysme.m3u8?md5=qbczXHWhUCqMtQItJ4fTlQ&expires=1753836352
+https://d5.merichunidya.com:1686/hls/skysme.m3u8?md5=kZzQf8hp4RvjcCLJ1jPTkg&expires=1753838280
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png", TNT 1
-https://d2.merichunidya.com:1686/hls/bbtsp1.m3u8?md5=6NJwOidt9Y9OKN1OnEuSRA&expires=1753836352
+https://d2.merichunidya.com:1686/hls/bbtsp1.m3u8?md5=suF_qL9LOGTTlVMpM483Aw&expires=1753838280
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png", TNT 2
+https://d2.merichunidya.com:1686/hls/bbtsp2.m3u8?md5=bmqLL8E-mKuuYcLsGEIf1w&expires=1753838280
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png", TNT 3
-https://d1.merichunidya.com:1686/hls/bbtsp3.m3u8?md5=fuRYmmaymcjdUeFobUalbQ&expires=1753836353
+https://d3.merichunidya.com:1686/hls/bbtsp3.m3u8?md5=9FWSlKkvEKr7WGvKLCcHBw&expires=1753838280
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/tnt.png", TNT 4
-https://d5.merichunidya.com:1686/hls/bbtespn.m3u8?md5=kJXXwh3n6quBoiQnySlvUg&expires=1753836353
+https://d5.merichunidya.com:1686/hls/bbtespn.m3u8?md5=qigC3IhkcPDTlTW5S4uk-w&expires=1753838280
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png", Sky Sports 1
-https://d4.merichunidya.com:1686/hls/sky1nz.m3u8?md5=GS3Ac-623lJ3Lp-F2QMNPw&expires=1753836353
+https://d3.merichunidya.com:1686/hls/sky1nz.m3u8?md5=dpKGdCe-7PgL1wiPlXwkVw&expires=1753838280
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png", Sky Sports 2
-https://d5.merichunidya.com:1686/hls/sky2nz.m3u8?md5=KA1sISjJ2fUINfLjpDgz6g&expires=1753836353
+https://d4.merichunidya.com:1686/hls/sky2nz.m3u8?md5=vPFeayQMaqIwTqQg3kkBYg&expires=1753838280
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png", Sky Sports 3
-https://d5.merichunidya.com:1686/hls/sky3nz.m3u8?md5=kSxoKr1JJIkvc0nhG9siQQ&expires=1753836353
+https://d5.merichunidya.com:1686/hls/sky3nz.m3u8?md5=3c5rm5sc2mW9uNeX0h3BwA&expires=1753838280
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png", Sky Sports 4
-https://d2.merichunidya.com:1686/hls/sky4nz.m3u8?md5=leos5Z19ON5x3QCcqYpCCw&expires=1753836353
+https://d3.merichunidya.com:1686/hls/sky4nz.m3u8?md5=aE40xUjhQiD9hE323GFLuw&expires=1753838281
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png", Sky Sports 5
-https://d5.merichunidya.com:1686/hls/sky5nz.m3u8?md5=ZHeb8obE3vusxl08yA_iIA&expires=1753836353
+https://d2.merichunidya.com:1686/hls/sky5nz.m3u8?md5=Z-zU0wJsDGBVCkswmPXkBw&expires=1753838281
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png", Sky Sports 6
-https://d3.merichunidya.com:1686/hls/sky6nz.m3u8?md5=_WVDVZqAS8lQ5JCB6mNeHg&expires=1753836353
+https://d1.merichunidya.com:1686/hls/sky6nz.m3u8?md5=DPJSpjuLAV6aeHJEHald6w&expires=1753838281
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png", Sky Sports 7
-https://d4.merichunidya.com:1686/hls/sky7nz.m3u8?md5=SPpke6-wlLQiKx6xemNg5w&expires=1753836353
+https://d4.merichunidya.com:1686/hls/sky7nz.m3u8?md5=N0LF5thJHFRb4AM5fbnqew&expires=1753838281
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png", Sky Sports 8
-https://d1.merichunidya.com:1686/hls/sky8nz.m3u8?md5=L7PIsEEjaw4cRbP4mKv4fw&expires=1753836353
+https://d3.merichunidya.com:1686/hls/sky8nz.m3u8?md5=XbJo7XfYGNc7rQzjmUgmIA&expires=1753838281
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/56-by-xfireflix.png", Sky Sports 9
-https://d4.merichunidya.com:1686/hls/sky9nz.m3u8?md5=Q_nbLhPMa3TGauAxPfTqxA&expires=1753836353
+https://d1.merichunidya.com:1686/hls/sky9nz.m3u8?md5=HK38lCyDGNLZStSwfUiDZQ&expires=1753838281
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/skycinema.png", Sky Cinema
-https://d1.merichunidya.com:1686/hls/skysme.m3u8?md5=3TJr5s42VEl8IzNyYLCSRQ&expires=1753836353
+https://d2.merichunidya.com:1686/hls/skysme.m3u8?md5=O_17dHoJQ7RV6sLEJLyTMw&expires=1753838281
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745007829332.png", Sky Sports Action
-https://d4.merichunidya.com:1686/hls/skysact.m3u8?md5=xDovDRoJSymhdTBo0qcTkw&expires=1753836353
+https://d3.merichunidya.com:1686/hls/skysact.m3u8?md5=K7bLK2L3sl0vSsTeO1VJNw&expires=1753838283
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008055327.png", Sky Sports Golf
-https://d4.merichunidya.com:1686/hls/skysgol.m3u8?md5=fGlwyAxDlDiBOb1o1NFhjw&expires=1753836354
+https://d5.merichunidya.com:1686/hls/skysgol.m3u8?md5=FUvt3UMMiJKxMbiqucbvaw&expires=1753838283
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/43-by-xfireflix.png", Sky Sports Premier League
-https://d5.merichunidya.com:1686/hls/skysprem.m3u8?md5=pz4wwMdSWzcbe7lPeiJlLQ&expires=1753836354
+https://d2.merichunidya.com:1686/hls/skysprem.m3u8?md5=jEm_fwQreL2ZJvuHCnB85A&expires=1753838283
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/44-by-xfireflix.png", Sky Sports Football
-https://d2.merichunidya.com:1686/hls/skysfott.m3u8?md5=m7ilBLbeqtGasrS5VgMeFA&expires=1753836354
+https://d5.merichunidya.com:1686/hls/skysfott.m3u8?md5=VXkL_HaXnj9Ehc2ad4kBYQ&expires=1753838283
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008347584.png", Sky Sports Plus
-https://d3.merichunidya.com:1686/hls/skysare.m3u8?md5=LfOJv0VHwIsQOFcHBxU5vw&expires=1753836354
+https://d4.merichunidya.com:1686/hls/skysare.m3u8?md5=PlxE5o3x1Ju4BerXBjl6qQ&expires=1753838283
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008468637.png", Sky Sports F1
-https://d5.merichunidya.com:1686/hls/skysfor1.m3u8?md5=KwozhqLfjHlrbRC_UL9bPw&expires=1753836354
+https://d5.merichunidya.com:1686/hls/skysfor1.m3u8?md5=fXuXPKw6N0X1ptu8cy9Q2A&expires=1753838283
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/19-by-xfireflix.png", LaLiGA
-https://d2.merichunidya.com:1686/hls/laligauk.m3u8?md5=KmisGucPTbokJbHY6GchoA&expires=1753836354
+https://d1.merichunidya.com:1686/hls/laligauk.m3u8?md5=s3Tl_VrrHLOXXHIlZng-6A&expires=1753838283
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/31-by-xfireflix.png", Premier Sports 1
-https://d4.merichunidya.com:1686/hls/premieruk.m3u8?md5=ti2SNeQVVZLEujVWiv6mBA&expires=1753836354
+https://d2.merichunidya.com:1686/hls/premieruk.m3u8?md5=yhdNq__XW2ZhYEQwtoqXxQ&expires=1753838284
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/31-by-xfireflix.png", Premier Sports 2
-https://d1.merichunidya.com:1686/hls/hdchnl2.m3u8?md5=17lXEZqSyhYXOEaabr5dqg&expires=1753836354
+https://d5.merichunidya.com:1686/hls/hdchnl2.m3u8?md5=2jzzCc4dSwhPvZ2FiATbjg&expires=1753838284
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/34-by-xfireflix.png", Super Football
-https://d1.merichunidya.com:1686/hls/superfotball.m3u8?md5=JvibWK0zaSZSpm3LnDIgDQ&expires=1753836354
+https://d4.merichunidya.com:1686/hls/superfotball.m3u8?md5=JdZ44sR1DqN_g2yf6Q9Fvg&expires=1753838284
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008781606.png", Super Premier League
-https://d2.merichunidya.com:1686/hls/superpremier.m3u8?md5=e9hocs43hYwzvjfppCwF-A&expires=1753836354
+https://d3.merichunidya.com:1686/hls/superpremier.m3u8?md5=uovMveOHBEVG-29afuWQaw&expires=1753838284
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745008895589.png", Astro Cricket
-https://d4.merichunidya.com:1686/hls/fox501.m3u8?md5=aGedy_8RSnZVtJQDWoxyBA&expires=1753836354
+https://d3.merichunidya.com:1686/hls/fox501.m3u8?md5=JvGrvkFIzfwY3rWlURHX1g&expires=1753838284
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/17-by-xfireflix.png", ESPN 1
-https://d3.merichunidya.com:1686/hls/espnusa.m3u8?md5=usM4BOpEsaJ67j73ajmJxg&expires=1753836354
+https://d5.merichunidya.com:1686/hls/espnusa.m3u8?md5=kANbQa2_EBuDBizZK37Qbg&expires=1753838284
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/17-by-xfireflix.png", ESPN 2
-https://d4.merichunidya.com:1686/hls/espn2.m3u8?md5=HC15Xm_cZGNE42jaTnMfMw&expires=1753836354
+https://d5.merichunidya.com:1686/hls/espn2.m3u8?md5=cHexS1qA7etU6ftTQNVc7Q&expires=1753838284
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745007829327.png", Sky Sports Arena
-https://d4.merichunidya.com:1686/hls/skysare.m3u8?md5=LfOJv0VHwIsQOFcHBxU5vw&expires=1753836354
+https://d2.merichunidya.com:1686/hls/skysare.m3u8?md5=Xau2ojUbDqjOW5lUPG4zxQ&expires=1753838284
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/13-by-xfireflix.png", Sky Sports Mix
-https://d4.merichunidya.com:1686/hls/skysmixx.m3u8?md5=dk9cf5gLzHHvZdWqdPRjmw&expires=1753836354
+https://d5.merichunidya.com:1686/hls/skysmixx.m3u8?md5=Dg85vmZ7V6GxTCZcQeTZCw&expires=1753838284
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1745009085794.png", Sky Sports Tennis
-https://d5.merichunidya.com:1686/hls/skystennis.m3u8?md5=rnYU3nlWRgI8lxg3FCOTKA&expires=1753836355
+https://d1.merichunidya.com:1686/hls/skystennis.m3u8?md5=bJOPRdbaF1Z78BLSnlXx6Q&expires=1753838284
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/6-by-xfireflix.png", Fox Cricket 501 HD
-https://d5.merichunidya.com:1686/hls/fox501.m3u8?md5=gVjsU2TTvnsNBkaMwOHZRQ&expires=1753836355
+https://d1.merichunidya.com:1686/hls/fox501.m3u8?md5=ZKq5vAUcvGC6BjZn1G6X_w&expires=1753838285
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abusaeeidx/Tv-Channel-Logo/heads/main/CricHD/runded/1000173192-modified.png", Sony Sports3
-https://d2.merichunidya.com:1686/hls/ten1hd.m3u8?md5=Y80pyMDr4DQcZS7KJDwxPA&expires=1753836355
+https://d2.merichunidya.com:1686/hls/ten1hd.m3u8?md5=610Jb9Wd1vwx2H5jdQMsVQ&expires=1753838285
